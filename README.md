@@ -1,2 +1,2 @@
 # stoic
-Practice
+A place for me to practice coding
